@@ -3,5 +3,5 @@ git hello!!!
 hello git!!!
 hello branch!!!
 hello hot-fix!!
-hello master!!
 master test!!
+hot-fix test!!
